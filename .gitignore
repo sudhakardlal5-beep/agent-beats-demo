@@ -1,0 +1,9 @@
+.env
+.DS_Store
+.python-version
+.venv/
+__pycache__/
+*.pyc
+
+# tau2-bench data (downloaded via setup.sh)
+scenarios/tau2/tau2-bench/
